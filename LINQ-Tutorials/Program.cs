@@ -1,4 +1,4 @@
 ﻿
 
-new QuerySyntaxt().Run();
+new Syntaxt().Run();
 

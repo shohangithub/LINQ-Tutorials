@@ -1,7 +1,7 @@
 using LINQ_Tutorials.Core.Entity;
 using LINQ_Tutorials.Helper;
 
-public class QuerySyntaxt : ViewModelBase
+public class Syntaxt : ViewModelBase
 {
     public void Run()
     {
