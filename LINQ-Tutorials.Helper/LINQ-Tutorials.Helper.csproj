@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Helper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LINQ-Tutorials.Core\LINQ-Tutorials.Core.csproj" />
+    <ProjectReference Include="..\LINQ-Tutorials.DAL\LINQ-Tutorials.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

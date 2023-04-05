@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Tutorials.Helper", "LI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Tutorials.DAL", "LINQ-Tutorials.DAL\LINQ-Tutorials.DAL.csproj", "{CDDC661E-9093-431B-B5F1-46D87B2BA7A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Tutorials.Core", "LINQ-Tutorials.Core\LINQ-Tutorials.Core.csproj", "{B37BF735-F2A0-443A-94D9-9F3D396F25DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +29,15 @@ Global
 		{CDDC661E-9093-431B-B5F1-46D87B2BA7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDDC661E-9093-431B-B5F1-46D87B2BA7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDDC661E-9093-431B-B5F1-46D87B2BA7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37BF735-F2A0-443A-94D9-9F3D396F25DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37BF735-F2A0-443A-94D9-9F3D396F25DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37BF735-F2A0-443A-94D9-9F3D396F25DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37BF735-F2A0-443A-94D9-9F3D396F25DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1541BC6C-B623-4F10-9600-C6608207DDBA}
 	EndGlobalSection
 EndGlobal

@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LINQ-Tutorials.Core\LINQ-Tutorials.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,1 +1,4 @@
-﻿QuerySyntaxt.Run();
+﻿
+
+new QuerySyntaxt().Run();
+
